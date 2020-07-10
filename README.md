@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**marinavega/marinavega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Marina, and I am a chemist and former translator reconverted into a software engineer. 
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning [Nuxt](https://nuxtjs.org/).
+- 💬 Ask me about Ruby, Ruby on Rails, Elixir, Phoenix, esolangs or creative coding.
+- 📫 How to reach me: send me an email to marinavega@protonmail.com.
+- 😄 Pronouns: she/her.
+- ⚡ Misc: I love photography, playing bass, learning Slavic languages, animals, and binge-watching The Simpsons.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Extremely online 👩🏻‍💻
+
+[Twitter](https://twitter.com/buenapava) ~ [Instagram](https://instagram.com/buenapava) ~ [LinkedIn](https://www.linkedin.com/in/marina-vega/)
