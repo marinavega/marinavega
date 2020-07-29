@@ -2,7 +2,7 @@
 
 My name is Marina, and I am a chemist and former translator reconverted into a software engineer. 
 
-- 🌱 I’m currently learning [Nuxt](https://nuxtjs.org/).
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/).
 - 💬 Ask me about Ruby, Ruby on Rails, Elixir, Phoenix, esolangs or creative coding.
 - 📫 How to reach me: send me an email to marinavega@protonmail.com.
 - 😄 Pronouns: she/her.
