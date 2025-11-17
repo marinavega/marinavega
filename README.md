@@ -17,4 +17,4 @@ My name is Marina, and I am a chemist and former translator now working as a sof
 
 ### Extremely online 👩🏻‍💻
 
-[Twitter](https://twitter.com/buenapava) ~ [Instagram](https://instagram.com/buenapava) ~ [LinkedIn](https://www.linkedin.com/in/marina-vega/) ~ [Newsletter](https://marinavega.substack.com/) ~ [I play bass in a band](https://www.youtube.com/watch?v=mWf_iuKzMeo)
+[Twitter](https://twitter.com/buenapava) ~ [Instagram](https://instagram.com/buenapava) ~ [LinkedIn](https://www.linkedin.com/in/marina-vega/) ~ [Newsletter](https://marinavega.substack.com/) ~ [I play bass in a band](https://www.youtube.com/watch?v=mWf_iuKzMeo) ~ [Chess](https://www.chess.com/member/buenapava)
